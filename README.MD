@@ -1,7 +1,6 @@
 ## About me
 
-Welcome to the my GitHub repository.
-I'm a Dmytro Kovryzhenko and I'm a coding geek.
+Welcome to the my GitHub repository, I'm Dmytro Kovryzhenko and I'm a coding geek.
 
 My stack is a **C++** and **Python** mostly, _Java_ and _C#_ - sometimes.
 I work with **SQLite** database for storing data.
