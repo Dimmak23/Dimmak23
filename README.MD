@@ -4,6 +4,7 @@ Welcome to the my GitHub repository, I'm Dmytro Kovryzhenko and I'm a coding gee
 
 My stack is a **C++** and **Python** mostly, _Java_ and _C#_ - sometimes.
 I work with **SQLite** database for storing data.
+
 Version control system - **Git**, preferable.
 Have knowledge in **OOP**, **Algorithms**, **Data Structures**, C++\\**STL**.
 
