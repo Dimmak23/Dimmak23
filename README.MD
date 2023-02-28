@@ -15,13 +15,15 @@ Have knowledge in **OOP**, **Algorithms**, **Data Structures**, C++\\**STL**.
 Build my projects via **CMake** (in a very rare occasions via _Makefile_),
 but also via _**Visual Studio**_ non-cmake solution (where Windows version is enough).
 
-| Rank | Languages |
-| ---: | --------- |
-|    1 | C++       |
-|    2 | Python    |
-|    3 | Java      |
-|    4 | C#        |
-|    5 | SQL       |
+______________________________
+| Knowledge Rank | Languages |
+| -------------: | --------- |
+|              1 | C++       |
+|              2 | Python    |
+|              3 | Java      |
+|              4 | C#        |
+|              5 | SQL       |
+______________________________
 
 ## Pet projects
 
