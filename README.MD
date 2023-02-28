@@ -35,6 +35,6 @@ another game.
 
 Time of making: 1 week.
 
-<img src="https://user-images.githubusercontent.com/36036315/221845153-58e35a38-ee07-4fd1-8afd-06a5868bed5a.gif" alt="" data-canonical-src="" width="410" height="400" />   <img src="https://user-images.githubusercontent.com/36036315/221845235-f23bdacc-cb5c-45bd-9f20-0accaf82e8cc.gif" alt="" data-canonical-src="" width="410" height="400" />
+<img src="https://user-images.githubusercontent.com/36036315/221845153-58e35a38-ee07-4fd1-8afd-06a5868bed5a.gif" alt="" data-canonical-src="" width="410" height="457" />   <img src="https://user-images.githubusercontent.com/36036315/221845235-f23bdacc-cb5c-45bd-9f20-0accaf82e8cc.gif" alt="" data-canonical-src="" width="410" height="457" />
 
 https://github.com/Dimmak23/Fifteen_Puzzle
