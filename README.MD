@@ -14,7 +14,7 @@ Have knowledge in **OOP**, **Algorithms**, **Data Structures**, C++\\**STL**.
 
 **Python** frameworks and libraries: **PyGame**, **Tkinter** (_ttkbootstrap_).
 
-Build my projects via **CMake** (in a very rare occasions via _Makefile_),
+Build my **C++** projects via **CMake** (in a very rare occasions via _Makefile_),
 but also via _**Visual Studio**_ non-cmake solution (where Windows version is enough).
 
 ______________________________
