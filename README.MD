@@ -8,6 +8,7 @@ I work with **SQLite** database for storing data.
 Can deploy for platforms: **Windows** and **Linux**.
 
 Version control system - **Git**, preferable.
+
 Have knowledge in **OOP**, **Algorithms**, **Data Structures**, C++\\**STL**.
 
 **C++** frameworks and libraries: **Qt**, **SFML**, **SDL**, **Boost**, **FMT**, **Aspose**.
