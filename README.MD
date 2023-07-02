@@ -64,4 +64,4 @@ A GUI application that helps users to copy preferable settings of project setup.
 
 Time of making: 3 weeks.
 
-<img src="https://github.com/Dimmak23/Settings_copier/blob/main/Utils/copy_machine_pressets.gif" alt="" data-canonical-src="" width="500" height="725" />   <img src="https://github.com/Dimmak23/Settings_copier/blob/main/Utils/copy_machine_copying.gif" alt="" data-canonical-src="" width="500" height="725" />
+<img src="https://github.com/Dimmak23/Settings_copier/blob/main/Utils/copy_machine_pressets.gif" alt="" data-canonical-src="" width="450" height="652" />   <img src="https://github.com/Dimmak23/Settings_copier/blob/main/Utils/copy_machine_copying.gif" alt="" data-canonical-src="" width="450" height="652" />
