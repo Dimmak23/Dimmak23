@@ -33,13 +33,15 @@ ______________________________
 [Arkanoid](https://github.com/Dimmak23/arkanoid)
 
 A C++ written game with SFML. This is a revisit of classical 80's Arkanoid game where user should break all the blocks, catch some bonuses and tries not to loose a ball. 
+
 Time of making: 3 weeks.
 
 <img src="https://github.com/Dimmak23/arkanoid/blob/main/markdown_images/arkanoid_gameplay.gif" alt="" data-canonical-src="" width="" height="" />
 
 [Crypt Raider](https://github.com/Dimmak23/UE5_CryptRaider)
 
-Unreal Engine 5 Crypt Raider video game. Walk into the medieval castle, find all treasures and open door to the basement. Moving doors, Triggering areas by mass or tag, Grabbing feature done with C++ components. 
+Unreal Engine 5 Crypt Raider video game. Walk into the medieval castle, find all treasures and open door to the basement. Moving doors, Triggering areas by mass or tag, Grabbing feature done with C++ components.
+
 Time of making: _still in development_.
 
 <img src="https://github.com/Dimmak23/UE5_CryptRaider/blob/main/Utils/gamePlayShowCase_03.gif" alt="" data-canonical-src="" width="" height="" />
@@ -51,6 +53,7 @@ This is a GUI application made with help of Qt and QtQuick framework. The back-e
 Your goal is to set all the tiles in the correct order from 1 to 15 (or 8, or 24 - depending on your difficulty level).
 In the end, you will receive a corresponding message. You also can return to the initial shuffle of the game or re-shuffle for 
 another game.
+
 Time of making: 1 week.
 
 <img src="https://user-images.githubusercontent.com/36036315/221845153-58e35a38-ee07-4fd1-8afd-06a5868bed5a.gif" alt="" data-canonical-src="" width="410" height="457" />   <img src="https://user-images.githubusercontent.com/36036315/221845235-f23bdacc-cb5c-45bd-9f20-0accaf82e8cc.gif" alt="" data-canonical-src="" width="410" height="457" />
@@ -58,6 +61,7 @@ Time of making: 1 week.
 [Copy machine](https://github.com/Dimmak23/Settings_copier)
 
 A GUI application that helps users to copy preferable settings of project setup. The back-end of the application is written in C++, and front-end is written with help of the Qt framework. Users need to choose a folder with needed settings and they would be copied to some other destination.
+
 Time of making: 3 weeks.
 
 <img src="https://github.com/Dimmak23/Settings_copier/blob/main/Utils/copy_machine_pressets.gif" alt="" data-canonical-src="" width="500" height="725" />   <img src="https://github.com/Dimmak23/Settings_copier/blob/main/Utils/copy_machine_copying.gif" alt="" data-canonical-src="" width="500" height="725" />
