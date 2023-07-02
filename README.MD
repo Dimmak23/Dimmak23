@@ -46,6 +46,6 @@ Time of making: 1 week.
 
 A GUI application that helps users to copy preferable settings of project setup. The back-end of the application is written in C++, and front-end is written with help of the Qt framework. Users need to choose a folder with needed settings and they would be copied to some other destination.
 
-<img src="https://github.com/Dimmak23/Settings_copier/blob/main/Utils/copy_machine_pressets.gif" alt="" data-canonical-src="" width="410" height="457" />   <img src="https://github.com/Dimmak23/Settings_copier/blob/main/Utils/copy_machine_copying.gif" alt="" data-canonical-src="" width="410" height="457" />
+<img src="https://github.com/Dimmak23/Settings_copier/blob/main/Utils/copy_machine_pressets.gif" alt="" data-canonical-src="" width="410" height="800" />   <img src="https://github.com/Dimmak23/Settings_copier/blob/main/Utils/copy_machine_copying.gif" alt="" data-canonical-src="" width="410" height="800" />
 
 Time of making: 3 weeks.
