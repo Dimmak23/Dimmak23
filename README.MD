@@ -39,6 +39,11 @@ Time of making: 3 weeks.
 
 [Crypt Raider](https://github.com/Dimmak23/UE5_CryptRaider)
 
+Unreal Engine 5 Crypt Raider video game. Walk into the medieval castle, find all treasures and open door to the basement. Moving doors, Triggering areas by mass or tag, Grabbing feature done with C++ components. 
+Time of making: _still in development_.
+
+<img src="https://github.com/Dimmak23/UE5_CryptRaider/blob/main/Utils/gamePlayShowCase_03.gif" alt="" data-canonical-src="" width="" height="" />
+
 [Sliding puzzles](https://github.com/Dimmak23/Fifteen_Puzzle)
 
 This is a GUI application made with help of Qt and QtQuick framework. The back-end was written in C++ and the front-end was written in QML.
