@@ -46,6 +46,15 @@ Time of making: _still in development_.
 
 <img src="https://github.com/Dimmak23/UE5_CryptRaider/blob/main/Utils/gamePlayShowCase_03.gif" alt="" data-canonical-src="" width="" height="" />
 
+[Items Picker](https://github.com/Dimmak23/ItemsPicker)
+
+An Unreal Engine 5 3rd person game about simple picking and placing in the Inventory objects from playground.
+Inventory could be shown or hidden, items could be picked up or thrown away from Inventory.
+
+Time of making: 10 days.
+
+<img src="https://github.com/Dimmak23/ItemsPicker/blob/main/MarkdownPics/GamePlay_showcase.gif" alt="" data-canonical-src="" width="" height="" />
+
 [Sliding puzzles](https://github.com/Dimmak23/Fifteen_Puzzle)
 
 This is a GUI application made with help of Qt and QtQuick framework. The back-end was written in C++ and the front-end was written in QML.
