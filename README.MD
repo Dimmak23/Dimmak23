@@ -42,7 +42,7 @@ Time of making: 3 weeks.
 
 Unreal Engine 5 Crypt Raider video game. Walk into the medieval castle, find all treasures and open door to the basement. Moving doors, Triggering areas by mass or tag, Grabbing feature done with C++ components.
 
-Time of making: _still in development_.
+Time of making: 3 month.
 
 <img src="https://github.com/Dimmak23/UE5_CryptRaider/blob/main/Utils/gamePlayShowCase_03.gif" alt="" data-canonical-src="" width="" height="" />
 
