@@ -36,7 +36,7 @@ A C++ written game with SFML. This is a revisit of classical 80's Arkanoid game 
 
 Time of making: 3 weeks.
 
-<img src="https://github.com/Dimmak23/arkanoid/blob/main/markdown_images/arkanoid_gameplay.gif" alt="" data-canonical-src="" width="" height="" />
+<img src="https://github.com/Dimmak23/arkanoid/blob/main/documentation/markdowns/images/arkanoid_gameplay.gif" alt="" data-canonical-src="" width="" height="" />
 
 [Crypt Raider](https://github.com/Dimmak23/UE5_CryptRaider)
 
