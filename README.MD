@@ -46,10 +46,8 @@ Time of making: 3 month.
 
 <img src="https://github.com/Dimmak23/UE5_CryptRaider/blob/main/Utils/gamePlayShowCase_03.gif" alt="" data-canonical-src="" width="" height="" />
 
-[<img src="https://img.youtube.com/vi/Fnhkb3EMpck/hqdefault.jpg" width="600" height="300"
+[<img src="https://img.youtube.com/vi/Fnhkb3EMpck/hqdefault.jpg" width="483" height="426"
 />](https://www.youtube.com/embed/Fnhkb3EMpck)
-
-https://youtu.be/Fnhkb3EMpck
 
 [Items Picker](https://github.com/Dimmak23/ItemsPicker)
 
