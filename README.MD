@@ -59,6 +59,15 @@ Time of making: 10 days.
 
 <img src="https://github.com/Dimmak23/ItemsPicker/blob/main/MarkdownPics/GamePlay_showcase.gif" alt="" data-canonical-src="" width="" height="" />
 
+[Hover Controller](https://github.com/Dimmak23/UE5_HoverController)
+
+An Unreal Engine 5 controller for hovering object above ground. Demonstated on the cargo ship.
+Could take forward/backward move and side steering inputs from user.
+
+Time of making: 1 day.
+
+<img src="https://github.com/Dimmak23/UE5_HoverController/blob/main/Documentation/Images/CargoShip_hover_gameplay_02.gif" alt="" data-canonical-src="" width="" height="" />
+
 [Sliding puzzles](https://github.com/Dimmak23/Fifteen_Puzzle)
 
 This is a GUI application made with help of Qt and QtQuick framework. The back-end was written in C++ and the front-end was written in QML.
