@@ -61,8 +61,8 @@ Time of making: 10 days.
 
 [Hover Controller](https://github.com/Dimmak23/UE5_HoverController)
 
-An Unreal Engine 5 controller for hovering object above ground. Demonstated on the cargo ship.
-Could take forward/backward move and side steering inputs from user.
+An Unreal Engine 5 controller for hovering object above ground.
+Demonstrated on the cargo ship. Could take forward/backward move and side steering inputs from user.
 
 Time of making: 1 day.
 
