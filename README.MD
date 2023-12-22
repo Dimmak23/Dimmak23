@@ -68,6 +68,15 @@ Time of making: 1 day.
 
 <img src="https://github.com/Dimmak23/UE5_HoverController/blob/main/Documentation/Images/CargoShip_hover_gameplay_02.gif" alt="" data-canonical-src="" width="" height="" />
 
+[Camera Anti-Blocking Component](https://github.com/Dimmak23/UE5_CameraAntiBlockComponent)
+
+An UnrealEngine 5 actor component for pawn to prevent camera clipping thru meshes of pawn.
+Main feature is in changing opacity of dynamic material of the mesh. 
+
+Time of making: 3 days.
+
+<img src="https://github.com/Dimmak23/UE5_CameraAntiBlockComponent/blob/main/Documentation/Images/AdBlockerShowCaseGameplay.gif" alt="" data-canonical-src="" width="" height="" />
+
 [Sliding puzzles](https://github.com/Dimmak23/Fifteen_Puzzle)
 
 This is a GUI application made with help of Qt and QtQuick framework. The back-end was written in C++ and the front-end was written in QML.
