@@ -30,7 +30,7 @@ ______________________________
 
 ## Pet projects
 
-[Arkanoid: code](https://github.com/Dimmak23/arkanoid)
+[Arkanoid: code](https://github.com/Dimmak23/arkanoid)\
 [Arkanoid: build](https://dimmak.itch.io/arkanoid-2d)
 
 A C++ written game with SFML. This is a revisit of classical 80's Arkanoid game where user should break all the blocks, catch some bonuses and tries not to loose a ball. 
