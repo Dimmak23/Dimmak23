@@ -37,6 +37,8 @@ A C++ written game with SFML. This is a revisit of classical 80's Arkanoid game 
 
 Time of making: 3 weeks.
 
+<img src="https://github.com/Dimmak23/arkanoid/blob/main/documentation/markdowns/images/arkanoid_gameplay.gif" alt="" data-canonical-src="" width="" height="" />
+
 [DoodleJump: code](https://github.com/Dimmak23/DoodleJump2D)\
 [DoodleJump: build](https://dimmak.itch.io/doodle-jump-2d)
 
