@@ -1,5 +1,9 @@
 # About me
 
+# I have recently joined the Ukrainian military forces to protect my country from russian occupation.
+# You can support me financially:
+# onemoremagistr@gmail.com
+
 Welcome to the my GitHub repository, I'm Dmytro Kovryzhenko and I'm a coding geek.
 
 My stack is a **C++** and **Python** mostly, _Java_ and _C#_ - sometimes.
