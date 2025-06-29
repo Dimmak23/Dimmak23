@@ -1,8 +1,8 @@
 # About me
 
 # I have recently joined the Ukrainian military forces to protect my country from russian occupation.
-# You can support me financially:
-# onemoremagistr@gmail.com
+# You can support me financially.
+# PayPal: onemoremagistr@gmail.com
 
 Welcome to the my GitHub repository, I'm Dmytro Kovryzhenko and I'm a coding geek.
 
